@@ -40,17 +40,17 @@ select:hover {
     margin: auto;
 }
 
-.w-10 {
+.w10 {
     width: 604px;
     border: 2px solid blue;
 }
 
-.w-9 {
+.w9 {
     width: 544px;
     border: 2px solid blue;
 }
 
-.w-7 {
+.w7 {
     width: 424px;
     border: 2px solid blue;
 }
